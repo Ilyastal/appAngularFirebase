@@ -6,14 +6,22 @@ export const environment = {
   production: false, 
   // For Firebase JavaScript SDK v7.20.0 and later, `measurementId` is an optional field
   firebase : {
-      apiKey: "API_KEY",
-      authDomain: "PROJECT_ID.firebaseapp.com",
-      databaseURL: "https://PROJECT_ID.firebaseio.com",
-      projectId: "PROJECT_ID",
-      storageBucket: "PROJECT_ID.appspot.com",
-      messagingSenderId: "SENDER_ID",
-      appId: "APP_ID",
-      measurementId: "G-MEASUREMENT_ID",
+    // apiKey: "AIzaSyDpr2xZ32hSEmGjg3RibzThZe3wUQ8zbXI",
+    // authDomain: "appfirebase-6d8b6.firebaseapp.com",
+    // databaseURL: "https://appfirebase-6d8b6-default-rtdb.firebaseio.com/",
+    // projectId: "appfirebase-6d8b6",
+    // storageBucket: "appfirebase-6d8b6.appspot.com",
+    // messagingSenderId: "381636966797",
+    // appId: "1:381636966797:web:84d656708401e0fd2ba5c4",
+    // measurementId: "G-4WM1YTF0T3", 
+    apiKey: "AIzaSyDpr2xZ32hSEmGjg3RibzThZe3wUQ8zbXI",
+    authDomain: "appfirebase-6d8b6.firebaseapp.com",
+    databaseURL: "https://appfirebase-6d8b6-default-rtdb.firebaseio.com",
+    projectId: "appfirebase-6d8b6",
+    storageBucket: "appfirebase-6d8b6.appspot.com",
+    messagingSenderId: "381636966797",
+    appId: "1:381636966797:web:8e8996bcb43571112ba5c4",
+    measurementId: "G-W33SBYED92"
   }
 };
 
